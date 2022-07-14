@@ -1,14 +1,15 @@
-# [fractal-maze](http://ballenon.great-site.net/projects/fmaze/index.html)
-Browser app for editing and solving fractal mazes.
+# 分型迷宫
+
+编辑和解决分形迷宫的Web应用程序。
 
 ![front image](front.png)
 
-This small game lets you create new fractal mazes, based on a square design with 1 to 8 exits on each side. You can then try to solve the maze yourself.
+这个小游戏可以创建分形迷宫，基于一个矩形面板进行设计，每个边可以有1到8个出口，并且你可以尝试自己解决这个迷宫。
 
-## Features
- - Level 1 to 8 mazes
- - Create and edit mazes
- - Import/export mazes
- - Saves your mazes and games to browser localStorage
- - Several mazes provided as exported file
- 
+## 功能
+
+- 每条边可以有1~8个出口
+- 创建并编辑迷宫
+- 导入导出迷宫
+- 保存你的迷宫和游戏到浏览器本地存储
+- 已有几个迷宫提供了导出文件

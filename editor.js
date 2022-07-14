@@ -163,7 +163,7 @@ class EditorPage {
     }
 
     onDelete() {
-        if (confirm('Are you sure you want to delete this maze?')) {
+        if (confirm('确定要删除此迷宫？')) {
             this.model.deleteCurrentMaze();
             this.model.routeTo('front');
         }
